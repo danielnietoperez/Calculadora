@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="titulo">Calculator</string>
+    <string name="numeroUno">Number One</string>
+    <string name="numerodos">Number Two</string>
+    <string name="btnCalcular">Calculator</string>
+    <string name="btnNumeroDos">Clear</string>
+    <string name="sumar">Addition</string>
+    <string name="restar">Subtaction</string>
+    <string name="dividir">Division</string>
+    <string name="multiplicar">Multiplication</string>
+    <string name="error1">type the first number please</string>
+    <string name="error2">type the second number please</string>
+    <string name="error3">can not be divided by zero</string>
+</resources>

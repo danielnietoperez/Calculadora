@@ -4,4 +4,20 @@
     </string>
     <string name="numeroUno">Numero Uno</string>
     <string name="numerodos">Numero Dos</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="btnNumeroDos">Limpiar</string>
+    <string name="sumar">Sumar</string>
+    <string name="restar">Restar</string>
+    <string name="dividir">Dividir</string>
+    <string name="multiplicar">Multiplicar</string>
+    <array name="operaciones">
+        <item>@string/sumar</item>
+        <item>@string/restar</item>
+        <item>@string/multiplicar</item>
+        <item>@string/dividir</item>
+    </array>
+    <string name="error1">Digite el primer numero</string>
+    <string name="error2">Digite el segundo numero</string>
+    <string name="error3">No se puede dividir por cero</string>
+
 </resources>
